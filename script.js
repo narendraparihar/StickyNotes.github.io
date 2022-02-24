@@ -48,7 +48,7 @@ function createNote(){
    })
 
    node0.addEventListener("dblclick",function(){
-    document.getElementById("note_text").value="";
+   
        node0.remove();
    })
 
